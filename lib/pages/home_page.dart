@@ -11,14 +11,12 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         elevation: 2,
         centerTitle: true,
-        toolbarHeight: 80,
-        backgroundColor: Color.fromARGB(255, 255, 251, 251),
+        toolbarHeight: 65,
         
         title: Text(title)
         ),
         body: Center(
             child: Container(
-      color: Color.fromARGB(255, 255, 255, 255),
       child: Text("Hello World from Flutter! 🐦 $number"),
     )));
   }
