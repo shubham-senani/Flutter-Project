@@ -1,16 +1,21 @@
-# hell
 
-A new Flutter project.
+# Catalog App
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This is a catalog app that allows users to create, read, update, and delete items in a catalog. Users can also login using Google or Facebook.
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To install Flutter, please follow the instructions [here](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running the App
+
+To run the app, please follow the instructions [here](https://flutter.dev/docs/get-started/test-drive?tab=terminal).
+
+## Screenshots
+
+![Login](screenshots/login.png)
+![Home](screenshots/home.png)
+![Add Item](screenshots/add_item.png)
+![Edit Item](screenshots/edit_item.png)
